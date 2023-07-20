@@ -1,0 +1,6 @@
+The interface of the software is saved as App.png
+It may be different for u cos the icons and images are not packed with project. 
+However, these files are saved in the icons folder in the project folder
+U can go ahead and insert them by comparing the App.png
+But that isn't your task. Go ahead and implement the backend. After everything,
+I'll build the files and packages.
